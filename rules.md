@@ -3,3 +3,4 @@
 3. Team earns more points the more ideas are said.
 4. Points have a multiplier that increases if each successive idea is from a person different than the last 3.
 5. lose health if you make a move that hurts someone
+6. gain health if you encourage someone.
