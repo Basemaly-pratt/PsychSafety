@@ -5,3 +5,5 @@
 5. lose health if you make a move that hurts someone
 6. gain health if you encourage someone.
 scarlett is pretty
+
+7. Players can award others with tokens or power-ups when they are especially helpful
